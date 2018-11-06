@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827b87ef-e7bd-4767-be40-49dc8eec8ebe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/054_spiral-matrix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/182_duplicate-emails.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -33,16 +33,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="01_two_sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_two_sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="771_jewels-and-stones.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/771_jewels-and-stones.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -125,11 +115,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="054_spiral-matrix.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="054_spiral-matrix.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/054_spiral-matrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-72">
-              <caret line="92" column="23" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+            <state relative-caret-position="443">
+              <caret line="111" column="13" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="182_duplicate-emails.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/182_duplicate-emails.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -160,6 +160,7 @@
         <option value="$PROJECT_DIR$/905_sort-array-by-parity.py" />
         <option value="$PROJECT_DIR$/595_big-countries.py" />
         <option value="$PROJECT_DIR$/054_spiral-matrix.py" />
+        <option value="$PROJECT_DIR$/182_duplicate-emails.py" />
       </list>
     </option>
   </component>
@@ -716,8 +717,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/054_spiral-matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-72">
-          <caret line="92" column="23" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+        <state relative-caret-position="443">
+          <caret line="111" column="13" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/182_duplicate-emails.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
           <folding />
         </state>
       </provider>
