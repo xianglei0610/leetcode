@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827b87ef-e7bd-4767-be40-49dc8eec8ebe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/292_nim-game.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/620_not-boring-movies.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -43,16 +43,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="992_sort-array-by-parity-ii.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/992_sort-array-by-parity-ii.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="852_peak-index-in-a-mountain-array.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/852_peak-index-in-a-mountain-array.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,11 +105,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="292_nim-game.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="292_nim-game.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/292_nim-game.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
               <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="620_not-boring-movies.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/620_not-boring-movies.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="108" selection-start-line="2" selection-start-column="108" selection-end-line="2" selection-end-column="108" />
               <folding />
             </state>
           </provider>
@@ -183,6 +183,7 @@
         <option value="$PROJECT_DIR$/728_self-dividing-numbers.py" />
         <option value="$PROJECT_DIR$/344_reverse-string.py" />
         <option value="$PROJECT_DIR$/292_nim-game.py" />
+        <option value="$PROJECT_DIR$/620_not-boring-movies.sql" />
       </list>
     </option>
   </component>
@@ -847,6 +848,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/620_not-boring-movies.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="108" selection-start-line="2" selection-start-column="108" selection-end-line="2" selection-end-column="108" />
           <folding />
         </state>
       </provider>
