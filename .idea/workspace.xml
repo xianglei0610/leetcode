@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827b87ef-e7bd-4767-be40-49dc8eec8ebe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/804_unique-morse-code-words.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/344_reverse-string.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/728_self-dividing-numbers.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -20,6 +21,7 @@
     <SUITE FILE_PATH="coverage/leetcode$078_subsets.coverage" NAME="078_subsets Coverage Results" MODIFIED="1541477434197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$832_flipping_an_image.coverage" NAME="832_flipping-an-image Coverage Results" MODIFIED="1541478635441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$461_hamming_distance.coverage" NAME="461_hamming-distance Coverage Results" MODIFIED="1541484694138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$728_self_dividing_numbers.coverage" NAME="728_self-dividing-numbers Coverage Results" MODIFIED="1541489942754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$535_encode_and_decode_tinyurl.coverage" NAME="535_encode-and-decode-tinyurl Coverage Results" MODIFIED="1541068947516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$807_max_increase_to_keep_city_skyline.coverage" NAME="807_max-increase-to-keep-city-skyline Coverage Results" MODIFIED="1541071079935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$709_to_lower_case.coverage" NAME="709_to-lower-case Coverage Results" MODIFIED="1541140401362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -45,26 +47,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="461_hamming-distance.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/461_hamming-distance.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="657_robot-return-to-origin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/657_robot-return-to-origin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -112,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="804_unique-morse-code-words.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="804_unique-morse-code-words.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/804_unique-morse-code-words.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
@@ -122,11 +104,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="728_self-dividing-numbers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/728_self-dividing-numbers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="10" column="43" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="344_reverse-string.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/344_reverse-string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="709_to-lower-case.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/709_to-lower-case.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="23" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -177,6 +179,8 @@
         <option value="$PROJECT_DIR$/476_number-complement.py" />
         <option value="$PROJECT_DIR$/627_swap-salary.py" />
         <option value="$PROJECT_DIR$/804_unique-morse-code-words.py" />
+        <option value="$PROJECT_DIR$/728_self-dividing-numbers.py" />
+        <option value="$PROJECT_DIR$/344_reverse-string.py" />
       </list>
     </option>
   </component>
@@ -252,25 +256,7 @@
       <recent name="F:\Python学习\python\leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.804_unique-morse-code-words">
-    <configuration default="false" name="461_hamming-distance" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/461_hamming-distance.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.728_self-dividing-numbers">
     <configuration default="false" name="657_robot-return-to-origin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,6 +325,24 @@
       <module name="leetcode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/804_unique-morse-code-words.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="728_self-dividing-numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/728_self-dividing-numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -552,19 +556,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.461_hamming-distance" />
-      <item index="1" class="java.lang.String" itemvalue="Python.657_robot-return-to-origin" />
-      <item index="2" class="java.lang.String" itemvalue="Python.992_sort-array-by-parity-ii" />
-      <item index="3" class="java.lang.String" itemvalue="Python.476_number-complement" />
-      <item index="4" class="java.lang.String" itemvalue="Python.804_unique-morse-code-words" />
+      <item index="0" class="java.lang.String" itemvalue="Python.657_robot-return-to-origin" />
+      <item index="1" class="java.lang.String" itemvalue="Python.992_sort-array-by-parity-ii" />
+      <item index="2" class="java.lang.String" itemvalue="Python.476_number-complement" />
+      <item index="3" class="java.lang.String" itemvalue="Python.804_unique-morse-code-words" />
+      <item index="4" class="java.lang.String" itemvalue="Python.728_self-dividing-numbers" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.804_unique-morse-code-words" />
-        <item index="1" class="java.lang.String" itemvalue="Python.476_number-complement" />
-        <item index="2" class="java.lang.String" itemvalue="Python.992_sort-array-by-parity-ii" />
-        <item index="3" class="java.lang.String" itemvalue="Python.657_robot-return-to-origin" />
-        <item index="4" class="java.lang.String" itemvalue="Python.461_hamming-distance" />
+        <item index="0" class="java.lang.String" itemvalue="Python.728_self-dividing-numbers" />
+        <item index="1" class="java.lang.String" itemvalue="Python.804_unique-morse-code-words" />
+        <item index="2" class="java.lang.String" itemvalue="Python.476_number-complement" />
+        <item index="3" class="java.lang.String" itemvalue="Python.992_sort-array-by-parity-ii" />
+        <item index="4" class="java.lang.String" itemvalue="Python.657_robot-return-to-origin" />
       </list>
     </recent_temporary>
   </component>
@@ -805,18 +809,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/709_to-lower-case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/804_unique-morse-code-words.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="16" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/709_to-lower-case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/728_self-dividing-numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/344_reverse-string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
       </provider>
