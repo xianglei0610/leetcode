@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827b87ef-e7bd-4767-be40-49dc8eec8ebe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/180_consecutive-numbers.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/596_classes-more-than-5-students.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -70,16 +70,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="283_move-zeroes.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/283_move-zeroes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="119_pascals-triangle-ii.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/119_pascals-triangle-ii.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -160,11 +150,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="180_consecutive-numbers.sql" pinned="false" current-in-tab="true">
+      <file leaf-file-name="180_consecutive-numbers.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/180_consecutive-numbers.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="596_classes-more-than-5-students.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/596_classes-more-than-5-students.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="119" selection-start-line="2" selection-start-column="119" selection-end-line="2" selection-end-column="119" />
               <folding />
             </state>
           </provider>
@@ -196,6 +196,7 @@
         <option value="$PROJECT_DIR$/196_delete-duplicate-emails.sql" />
         <option value="$PROJECT_DIR$/197_rising-temperature.sql" />
         <option value="$PROJECT_DIR$/180_consecutive-numbers.sql" />
+        <option value="$PROJECT_DIR$/596_classes-more-than-5-students.sql" />
       </list>
     </option>
   </component>
@@ -595,13 +596,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_node.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
@@ -964,6 +958,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/596_classes-more-than-5-students.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="119" selection-start-line="2" selection-start-column="119" selection-end-line="2" selection-end-column="119" />
           <folding />
         </state>
       </provider>
