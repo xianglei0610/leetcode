@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827b87ef-e7bd-4767-be40-49dc8eec8ebe" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/178_rank-scores" afterPath="$PROJECT_DIR$/178_rank-scores" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/196_delete-duplicate-emails.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,16 +70,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="812_largest-triangle-area.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/812_largest-triangle-area.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="169_majority-element.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/169_majority-element.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -159,11 +150,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="178_rank-scores" pinned="false" current-in-tab="true">
+      <file leaf-file-name="178_rank-scores" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/178_rank-scores">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
               <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="196_delete-duplicate-emails.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/196_delete-duplicate-emails.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="77" selection-start-line="3" selection-start-column="77" selection-end-line="3" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -192,6 +193,7 @@
         <option value="$PROJECT_DIR$/788_rotated-digits.py" />
         <option value="$PROJECT_DIR$/626_exchange-seats.sql" />
         <option value="$PROJECT_DIR$/178_rank-scores" />
+        <option value="$PROJECT_DIR$/196_delete-duplicate-emails.sql" />
       </list>
     </option>
   </component>
@@ -591,13 +593,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/344_reverse-string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/620_not-boring-movies.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -956,6 +951,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/196_delete-duplicate-emails.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="77" selection-start-line="3" selection-start-column="77" selection-end-line="3" selection-end-column="77" />
           <folding />
         </state>
       </provider>
