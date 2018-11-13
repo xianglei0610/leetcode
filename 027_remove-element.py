@@ -17,6 +17,7 @@ class Solution(object):
 
         j = 0
         for i in range(0, len(nums)):
+            print nums
             if nums[i] != val:
                 nums[j] = nums[i]
                 j = j + 1
