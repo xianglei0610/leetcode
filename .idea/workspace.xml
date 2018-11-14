@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827b87ef-e7bd-4767-be40-49dc8eec8ebe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/108_convert-sorted-array-to-binary-search-tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/700_search-in-a-binary-search-tree.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/9_palindrome-number.py" afterPath="$PROJECT_DIR$/09_palindrome-number.py" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,16 +71,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="596_classes-more-than-5-students.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/596_classes-more-than-5-students.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="184_department-highest-salary.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/184_department-highest-salary.sql">
           <provider selected="true" editor-type-id="text-editor">
@@ -162,11 +151,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="108_convert-sorted-array-to-binary-search-tree.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="108_convert-sorted-array-to-binary-search-tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/108_convert-sorted-array-to-binary-search-tree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
               <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="700_search-in-a-binary-search-tree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/700_search-in-a-binary-search-tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="524">
+              <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -209,6 +208,7 @@
         <option value="$PROJECT_DIR$/559_maximum-depth-of-n-ary-tree.py" />
         <option value="$PROJECT_DIR$/108-convert-sorted-array-to-binary-search-tree.py" />
         <option value="$PROJECT_DIR$/108_convert-sorted-array-to-binary-search-tree.py" />
+        <option value="$PROJECT_DIR$/700_search-in-a-binary-search-tree.py" />
       </list>
     </option>
   </component>
@@ -628,13 +628,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/821_shortest-distance-to-a-character.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/908_smallest-range-i.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -1012,6 +1005,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/700_search-in-a-binary-search-tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
           <folding />
         </state>
       </provider>
