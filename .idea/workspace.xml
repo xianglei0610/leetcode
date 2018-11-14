@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827b87ef-e7bd-4767-be40-49dc8eec8ebe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/226_invert-binary-tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/617_merge-two-binary-trees.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -71,16 +71,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="626_exchange-seats.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/626_exchange-seats.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="178_rank-scores" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/178_rank-scores">
           <provider selected="true" editor-type-id="text-editor">
@@ -161,11 +151,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="226_invert-binary-tree.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="226_invert-binary-tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/226_invert-binary-tree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
               <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="617_merge-two-binary-trees.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/617_merge-two-binary-trees.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -202,6 +202,7 @@
         <option value="$PROJECT_DIR$/654_maximum-binary-tree.py" />
         <option value="$PROJECT_DIR$/104_maximum-depth-of-binary-tree.py" />
         <option value="$PROJECT_DIR$/226_invert-binary-tree.py" />
+        <option value="$PROJECT_DIR$/617_merge-two-binary-trees.py" />
       </list>
     </option>
   </component>
@@ -621,13 +622,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/867_transpose-matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.py" />
     <entry file="file://$PROJECT_DIR$/258_add-digits.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -994,6 +988,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/617_merge-two-binary-trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
           <folding />
         </state>
       </provider>
