@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827b87ef-e7bd-4767-be40-49dc8eec8ebe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/206_reverse-linked-list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/543_diameter-of-binary-tree.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -71,16 +71,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="226_invert-binary-tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/226_invert-binary-tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="617_merge-two-binary-trees.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/617_merge-two-binary-trees.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -161,11 +151,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="206_reverse-linked-list.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="206_reverse-linked-list.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/206_reverse-linked-list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="30" selection-end-column="22" />
+            <state relative-caret-position="349">
+              <caret line="23" column="18" selection-start-line="21" selection-start-column="8" selection-end-line="30" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="543_diameter-of-binary-tree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/543_diameter-of-binary-tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-201">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -212,6 +212,7 @@
         <option value="$PROJECT_DIR$/669_convert-sorted-array-to-binary-search-tree.py" />
         <option value="$PROJECT_DIR$/429_n-ary-tree-level-order-traversal.py" />
         <option value="$PROJECT_DIR$/206_reverse-linked-list.py" />
+        <option value="$PROJECT_DIR$/543_diameter-of-binary-tree.py" />
       </list>
     </option>
   </component>
@@ -631,13 +632,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/693_binary-number-with-alternating-bits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/181_employees-earning-more-than-their-managers.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -1017,8 +1011,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/206_reverse-linked-list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="30" selection-end-column="22" />
+        <state relative-caret-position="349">
+          <caret line="23" column="18" selection-start-line="21" selection-start-column="8" selection-end-line="30" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/543_diameter-of-binary-tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-201">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding />
         </state>
       </provider>
