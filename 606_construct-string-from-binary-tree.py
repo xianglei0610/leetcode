@@ -19,9 +19,9 @@ class Solution(object):
         res = ''
         left = self.tree2str(t.left)
         right = self.tree2str(t.right)
-        if left or right:
+        if t.left or t.right:
             res += '(%s)' % left
-        if right:
+        if t.right:
             res +='(%s)' % right
         return str(t.val) + res
             
