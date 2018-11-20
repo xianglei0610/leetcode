@@ -20,5 +20,6 @@ class Solution(object):
                 hexRes.append(str(f))
             else:
                 hexRes.append(dict(f))
+        print hexRes
         hexRes = hexRes[::-1]
         return ''.join(hexRes)
