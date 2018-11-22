@@ -15,5 +15,5 @@ class Solution(object):
         """
         s = str(n)
         return s == s[::-1]
-n=-123
+n=123
 Solution().isPalindrome(n)
