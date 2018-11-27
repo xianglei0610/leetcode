@@ -8,9 +8,9 @@ class Solution(object):
         """
         res = ''
         if not num:
-            return 0
+            return '0'
         n = abs(num)
         while n:
-            res += str(n%7)
+            res = str(n%7) +res
             n = n/7
         return res if num>0 else '-'+res
